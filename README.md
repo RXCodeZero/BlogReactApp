@@ -142,6 +142,8 @@ npx nodemon index.js
 
 ![image](https://github.com/user-attachments/assets/777213fd-1b0c-47f4-9100-2b626081329c)
 
+![image](https://github.com/user-attachments/assets/f75bbb9d-a767-4079-8e7f-db77e77e9905)
+
 ![image](https://github.com/user-attachments/assets/98c090da-194a-474c-96b1-b66a74cff299)
 
 ![image](https://github.com/user-attachments/assets/5795abb8-ed1c-4762-8319-3e319bf1fa9d)
