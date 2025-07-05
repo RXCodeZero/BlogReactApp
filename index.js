@@ -12,7 +12,7 @@ const SECRET = "secretkey";
 app.use(cors());
 app.use(express.json());
 
-mongoose.connect("mongodb+srv://abhaybaiju2004:tRqvA5JpXZ0qIO4D@todoapplication.hhgnmqs.mongodb.net/BlogSite")
+mongoose.connect("your_mongo_db_server_url")
     .then(() => console.log("MongoDB Connected"))
     .catch(err => console.error("MongoDB Error:", err));
 
